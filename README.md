@@ -8,7 +8,7 @@ I've already tested it on many devices.
 
 DeviceProperties
 
-compatible - String - pci14e4,43a0
+IOName - String - pci14e4,43a0
 
 Kernel:
 
